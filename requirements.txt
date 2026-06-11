@@ -1,0 +1,22 @@
+# AI-Powered Agile Sprint Manager
+# Install: pip install -r requirements.txt
+
+# Core ML & Data
+pandas
+numpy
+scikit-learn
+
+# Web Framework (Frontend)
+streamlit
+
+# Visualization (optional, used via Streamlit)
+plotly>=5.15.0
+matplotlib
+
+# Database & Auth
+supabase>=2.4.0
+python-dotenv>=1.0.1
+
+# Utilities
+python-dateutil>=2.8.0
+reportlab
